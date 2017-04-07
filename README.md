@@ -7,4 +7,5 @@ How to use:
 - in order to run the program on a file named myCode.cpp you enter the following at the command line
     count myCode.cpp
 
+Let me know if there are any issues, 
 I hope this helps!
